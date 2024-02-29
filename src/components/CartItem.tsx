@@ -1,12 +1,5 @@
 import React from 'react';
-import {
-  StyleSheet,
-  Text,
-  View,
-  ImageProps,
-  Image,
-  TouchableOpacity,
-} from 'react-native';
+import {StyleSheet, Text, View, Image, TouchableOpacity} from 'react-native';
 import LinearGradient from 'react-native-linear-gradient';
 import {
   BORDERRADIUS,
@@ -16,34 +9,36 @@ import {
   SPACING,
 } from '../theme/theme';
 import {FontAwesomeIcon} from '@fortawesome/react-native-fontawesome';
-import {faAd, faAdd, faMinus} from '@fortawesome/free-solid-svg-icons';
+import {faAd, faMinus} from '@fortawesome/free-solid-svg-icons';
 
 interface CartItemProps {
   id: string;
-  name: string;
-  imagelink_square: ImageProps;
-  special_ingredient: string;
-  roasted: string;
-  prices: any;
-  type: string;
   incrementCartItemQuantityHandler: any;
   decrementCartItemQuantityHandler: any;
+  title: string;
+  description: string;
+  price: any;
+  stock: number;
+  category: string;
+  thumbnail: string;
 }
 
 const CartItem: React.FC<CartItemProps> = ({
   id,
-  name,
-  imagelink_square,
-  special_ingredient,
-  roasted,
-  prices,
-  type,
+  thumbnail,
+  title,
+  description,
+  price,
+  // category,
+  // rating,
+  // brand,
+  stock,
   incrementCartItemQuantityHandler,
   decrementCartItemQuantityHandler,
 }) => {
   return (
     <View>
-      {prices.length != 1 ? (
+      {/* {prices.length !== 1 ? (
         <LinearGradient
           start={{x: 0, y: 0}}
           end={{x: 1, y: 1}}
@@ -74,7 +69,7 @@ const CartItem: React.FC<CartItemProps> = ({
                       styles.SizeText,
                       {
                         fontSize:
-                          type == 'Bean' ? FONTSIZE.size_12 : FONTSIZE.size_16,
+                          type === 'Bean' ? FONTSIZE.size_12 : FONTSIZE.size_16,
                       },
                     ]}>
                     {data.size}
@@ -117,73 +112,68 @@ const CartItem: React.FC<CartItemProps> = ({
             </View>
           ))}
         </LinearGradient>
-      ) : (
-        <LinearGradient
-          start={{x: 0, y: 0}}
-          end={{x: 1, y: 1}}
-          colors={[COLORS.primaryGreyHex, COLORS.primaryBlackHex]}
-          style={styles.CartItemSingleLinearGradient}>
+      ) : ( */}
+      <LinearGradient
+        start={{x: 0, y: 0}}
+        end={{x: 1, y: 1}}
+        colors={[COLORS.primaryGreyHex, COLORS.primaryBlackHex]}
+        style={styles.CartItemSingleLinearGradient}>
+        <View>
+          <Image source={{uri: thumbnail}} style={styles.CartItemSingleImage} />
+        </View>
+        <View style={styles.CartItemSingleInfoContainer}>
           <View>
-            <Image
-              source={imagelink_square}
-              style={styles.CartItemSingleImage}
-            />
+            <Text style={styles.CartItemTitle}>{title}</Text>
+            <Text style={styles.CartItemSubtitle}>{description}</Text>
           </View>
-          <View style={styles.CartItemSingleInfoContainer}>
-            <View>
-              <Text style={styles.CartItemTitle}>{name}</Text>
-              <Text style={styles.CartItemSubtitle}>{special_ingredient}</Text>
-            </View>
-            <View style={styles.CartItemSingleSizeValueContainer}>
-              <View style={styles.SizeBox}>
-                <Text
-                  style={[
-                    styles.SizeText,
-                    {
-                      fontSize:
-                        type == 'Bean' ? FONTSIZE.size_12 : FONTSIZE.size_16,
-                    },
-                  ]}>
-                  {prices[0].size}
-                </Text>
-              </View>
-              <Text style={styles.SizeCurrency}>
-                {prices[0].currency}
-                <Text style={styles.SizePrice}> {prices[0].price}</Text>
+          <View style={styles.CartItemSingleSizeValueContainer}>
+            <View style={styles.SizeBox}>
+              <Text
+                style={[
+                  styles.SizeText,
+                  // {
+                  //   fontSize:
+                  //     type === 'Bean' ? FONTSIZE.size_12 : FONTSIZE.size_16,
+                  // },
+                ]}>
+                {price}
               </Text>
             </View>
-            <View style={styles.CartItemSingleQuantityContainer}>
-              <TouchableOpacity
-                style={styles.CartItemIcon}
-                onPress={() => {
-                  decrementCartItemQuantityHandler(id, prices[0].size);
-                }}>
-                <FontAwesomeIcon
-                  icon={faMinus}
-                  color={COLORS.primaryWhiteHex}
-                  size={FONTSIZE.size_10}
-                />
-              </TouchableOpacity>
-              <View style={styles.CartItemQuantityContainer}>
-                <Text style={styles.CartItemQuantityText}>
-                  {prices[0].quantity}
-                </Text>
-              </View>
-              <TouchableOpacity
-                style={styles.CartItemIcon}
-                onPress={() => {
-                  incrementCartItemQuantityHandler(id, prices[0].size);
-                }}>
-                <FontAwesomeIcon
-                  icon={faAd}
-                  color={COLORS.primaryWhiteHex}
-                  size={FONTSIZE.size_10}
-                />
-              </TouchableOpacity>
-            </View>
+            <Text style={styles.SizeCurrency}>
+              {/* {prices[0].currency} */}$
+              {/* <Text style={styles.SizePrice}> {price}</Text> */}
+            </Text>
           </View>
-        </LinearGradient>
-      )}
+          <View style={styles.CartItemSingleQuantityContainer}>
+            <TouchableOpacity
+              style={styles.CartItemIcon}
+              onPress={() => {
+                decrementCartItemQuantityHandler(id, price);
+              }}>
+              <FontAwesomeIcon
+                icon={faMinus}
+                color={COLORS.primaryWhiteHex}
+                size={FONTSIZE.size_10}
+              />
+            </TouchableOpacity>
+            <View style={styles.CartItemQuantityContainer}>
+              <Text style={styles.CartItemQuantityText}>{stock}</Text>
+            </View>
+            <TouchableOpacity
+              style={styles.CartItemIcon}
+              onPress={() => {
+                incrementCartItemQuantityHandler(id, price);
+              }}>
+              <FontAwesomeIcon
+                icon={faAd}
+                color={COLORS.primaryWhiteHex}
+                size={FONTSIZE.size_10}
+              />
+            </TouchableOpacity>
+          </View>
+        </View>
+      </LinearGradient>
+      {/* )} */}
     </View>
   );
 };

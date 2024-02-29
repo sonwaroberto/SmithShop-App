@@ -1,0 +1,2251 @@
+[
+   {
+      "currency":"AFN",
+      "emoji":"🇦🇫",
+      "emojiU":"U+1F1E6 U+1F1EB",
+      "extension":"93",
+      "iso2":"AF",
+      "label":"Afghanistan",
+      "value":"Afghanistan"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇦🇽",
+      "emojiU":"U+1F1E6 U+1F1FD",
+      "extension":"+358-18",
+      "iso2":"AX",
+      "label":"Aland Islands",
+      "value":"Aland Islands"
+   },
+   {
+      "currency":"ALL",
+      "emoji":"🇦🇱",
+      "emojiU":"U+1F1E6 U+1F1F1",
+      "extension":"355",
+      "iso2":"AL",
+      "label":"Albania",
+      "value":"Albania"
+   },
+   {
+      "currency":"DZD",
+      "emoji":"🇩🇿",
+      "emojiU":"U+1F1E9 U+1F1FF",
+      "extension":"213",
+      "iso2":"DZ",
+      "label":"Algeria",
+      "value":"Algeria"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇦🇸",
+      "emojiU":"U+1F1E6 U+1F1F8",
+      "extension":"+1-684",
+      "iso2":"AS",
+      "label":"American Samoa",
+      "value":"American Samoa"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇦🇩",
+      "emojiU":"U+1F1E6 U+1F1E9",
+      "extension":"376",
+      "iso2":"AD",
+      "label":"Andorra",
+      "value":"Andorra"
+   },
+   {
+      "currency":"AOA",
+      "emoji":"🇦🇴",
+      "emojiU":"U+1F1E6 U+1F1F4",
+      "extension":"244",
+      "iso2":"AO",
+      "label":"Angola",
+      "value":"Angola"
+   },
+   {
+      "currency":"XCD",
+      "emoji":"🇦🇮",
+      "emojiU":"U+1F1E6 U+1F1EE",
+      "extension":"+1-264",
+      "iso2":"AI",
+      "label":"Anguilla",
+      "value":"Anguilla"
+   },
+   {
+      "currency":"AAD",
+      "emoji":"🇦🇶",
+      "emojiU":"U+1F1E6 U+1F1F6",
+      "extension":"672",
+      "iso2":"AQ",
+      "label":"Antarctica",
+      "value":"Antarctica"
+   },
+   {
+      "currency":"XCD",
+      "emoji":"🇦🇬",
+      "emojiU":"U+1F1E6 U+1F1EC",
+      "extension":"+1-268",
+      "iso2":"AG",
+      "label":"Antigua And Barbuda",
+      "value":"Antigua And Barbuda"
+   },
+   {
+      "currency":"ARS",
+      "emoji":"🇦🇷",
+      "emojiU":"U+1F1E6 U+1F1F7",
+      "extension":"54",
+      "iso2":"AR",
+      "label":"Argentina",
+      "value":"Argentina"
+   },
+   {
+      "currency":"AMD",
+      "emoji":"🇦🇲",
+      "emojiU":"U+1F1E6 U+1F1F2",
+      "extension":"374",
+      "iso2":"AM",
+      "label":"Armenia",
+      "value":"Armenia"
+   },
+   {
+      "currency":"AWG",
+      "emoji":"🇦🇼",
+      "emojiU":"U+1F1E6 U+1F1FC",
+      "extension":"297",
+      "iso2":"AW",
+      "label":"Aruba",
+      "value":"Aruba"
+   },
+   {
+      "currency":"AUD",
+      "emoji":"🇦🇺",
+      "emojiU":"U+1F1E6 U+1F1FA",
+      "extension":"61",
+      "iso2":"AU",
+      "label":"Australia",
+      "value":"Australia"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇦🇹",
+      "emojiU":"U+1F1E6 U+1F1F9",
+      "extension":"43",
+      "iso2":"AT",
+      "label":"Austria",
+      "value":"Austria"
+   },
+   {
+      "currency":"AZN",
+      "emoji":"🇦🇿",
+      "emojiU":"U+1F1E6 U+1F1FF",
+      "extension":"994",
+      "iso2":"AZ",
+      "label":"Azerbaijan",
+      "value":"Azerbaijan"
+   },
+   {
+      "currency":"BSD",
+      "emoji":"🇧🇸",
+      "emojiU":"U+1F1E7 U+1F1F8",
+      "extension":"+1-242",
+      "iso2":"BS",
+      "label":"Bahamas The",
+      "value":"Bahamas The"
+   },
+   {
+      "currency":"BHD",
+      "emoji":"🇧🇭",
+      "emojiU":"U+1F1E7 U+1F1ED",
+      "extension":"973",
+      "iso2":"BH",
+      "label":"Bahrain",
+      "value":"Bahrain"
+   },
+   {
+      "currency":"BDT",
+      "emoji":"🇧🇩",
+      "emojiU":"U+1F1E7 U+1F1E9",
+      "extension":"880",
+      "iso2":"BD",
+      "label":"Bangladesh",
+      "value":"Bangladesh"
+   },
+   {
+      "currency":"BBD",
+      "emoji":"🇧🇧",
+      "emojiU":"U+1F1E7 U+1F1E7",
+      "extension":"+1-246",
+      "iso2":"BB",
+      "label":"Barbados",
+      "value":"Barbados"
+   },
+   {
+      "currency":"BYN",
+      "emoji":"🇧🇾",
+      "emojiU":"U+1F1E7 U+1F1FE",
+      "extension":"375",
+      "iso2":"BY",
+      "label":"Belarus",
+      "value":"Belarus"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇧🇪",
+      "emojiU":"U+1F1E7 U+1F1EA",
+      "extension":"32",
+      "iso2":"BE",
+      "label":"Belgium",
+      "value":"Belgium"
+   },
+   {
+      "currency":"BZD",
+      "emoji":"🇧🇿",
+      "emojiU":"U+1F1E7 U+1F1FF",
+      "extension":"501",
+      "iso2":"BZ",
+      "label":"Belize",
+      "value":"Belize"
+   },
+   {
+      "currency":"XOF",
+      "emoji":"🇧🇯",
+      "emojiU":"U+1F1E7 U+1F1EF",
+      "extension":"229",
+      "iso2":"BJ",
+      "label":"Benin",
+      "value":"Benin"
+   },
+   {
+      "currency":"BMD",
+      "emoji":"🇧🇲",
+      "emojiU":"U+1F1E7 U+1F1F2",
+      "extension":"+1-441",
+      "iso2":"BM",
+      "label":"Bermuda",
+      "value":"Bermuda"
+   },
+   {
+      "currency":"BTN",
+      "emoji":"🇧🇹",
+      "emojiU":"U+1F1E7 U+1F1F9",
+      "extension":"975",
+      "iso2":"BT",
+      "label":"Bhutan",
+      "value":"Bhutan"
+   },
+   {
+      "currency":"BOB",
+      "emoji":"🇧🇴",
+      "emojiU":"U+1F1E7 U+1F1F4",
+      "extension":"591",
+      "iso2":"BO",
+      "label":"Bolivia",
+      "value":"Bolivia"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇧🇶",
+      "emojiU":"U+1F1E7 U+1F1F6",
+      "extension":"599",
+      "iso2":"BQ",
+      "label":"Bonaire, Sint Eustatius and Saba",
+      "value":"Bonaire, Sint Eustatius and Saba"
+   },
+   {
+      "currency":"BAM",
+      "emoji":"🇧🇦",
+      "emojiU":"U+1F1E7 U+1F1E6",
+      "extension":"387",
+      "iso2":"BA",
+      "label":"Bosnia and Herzegovina",
+      "value":"Bosnia and Herzegovina"
+   },
+   {
+      "currency":"BWP",
+      "emoji":"🇧🇼",
+      "emojiU":"U+1F1E7 U+1F1FC",
+      "extension":"267",
+      "iso2":"BW",
+      "label":"Botswana",
+      "value":"Botswana"
+   },
+   {
+      "currency":"NOK",
+      "emoji":"🇧🇻",
+      "emojiU":"U+1F1E7 U+1F1FB",
+      "extension":"0055",
+      "iso2":"BV",
+      "label":"Bouvet Island",
+      "value":"Bouvet Island"
+   },
+   {
+      "currency":"BRL",
+      "emoji":"🇧🇷",
+      "emojiU":"U+1F1E7 U+1F1F7",
+      "extension":"55",
+      "iso2":"BR",
+      "label":"Brazil",
+      "value":"Brazil"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇮🇴",
+      "emojiU":"U+1F1EE U+1F1F4",
+      "extension":"246",
+      "iso2":"IO",
+      "label":"British Indian Ocean Territory",
+      "value":"British Indian Ocean Territory"
+   },
+   {
+      "currency":"BND",
+      "emoji":"🇧🇳",
+      "emojiU":"U+1F1E7 U+1F1F3",
+      "extension":"673",
+      "iso2":"BN",
+      "label":"Brunei",
+      "value":"Brunei"
+   },
+   {
+      "currency":"BGN",
+      "emoji":"🇧🇬",
+      "emojiU":"U+1F1E7 U+1F1EC",
+      "extension":"359",
+      "iso2":"BG",
+      "label":"Bulgaria",
+      "value":"Bulgaria"
+   },
+   {
+      "currency":"XOF",
+      "emoji":"🇧🇫",
+      "emojiU":"U+1F1E7 U+1F1EB",
+      "extension":"226",
+      "iso2":"BF",
+      "label":"Burkina Faso",
+      "value":"Burkina Faso"
+   },
+   {
+      "currency":"BIF",
+      "emoji":"🇧🇮",
+      "emojiU":"U+1F1E7 U+1F1EE",
+      "extension":"257",
+      "iso2":"BI",
+      "label":"Burundi",
+      "value":"Burundi"
+   },
+   {
+      "currency":"KHR",
+      "emoji":"🇰🇭",
+      "emojiU":"U+1F1F0 U+1F1ED",
+      "extension":"855",
+      "iso2":"KH",
+      "label":"Cambodia",
+      "value":"Cambodia"
+   },
+   {
+      "currency":"XAF",
+      "emoji":"🇨🇲",
+      "emojiU":"U+1F1E8 U+1F1F2",
+      "extension":"237",
+      "iso2":"CM",
+      "label":"Cameroon",
+      "value":"Cameroon"
+   },
+   {
+      "currency":"CAD",
+      "emoji":"🇨🇦",
+      "emojiU":"U+1F1E8 U+1F1E6",
+      "extension":"1",
+      "iso2":"CA",
+      "label":"Canada",
+      "value":"Canada"
+   },
+   {
+      "currency":"CVE",
+      "emoji":"🇨🇻",
+      "emojiU":"U+1F1E8 U+1F1FB",
+      "extension":"238",
+      "iso2":"CV",
+      "label":"Cape Verde",
+      "value":"Cape Verde"
+   },
+   {
+      "currency":"KYD",
+      "emoji":"🇰🇾",
+      "emojiU":"U+1F1F0 U+1F1FE",
+      "extension":"+1-345",
+      "iso2":"KY",
+      "label":"Cayman Islands",
+      "value":"Cayman Islands"
+   },
+   {
+      "currency":"XAF",
+      "emoji":"🇨🇫",
+      "emojiU":"U+1F1E8 U+1F1EB",
+      "extension":"236",
+      "iso2":"CF",
+      "label":"Central African Republic",
+      "value":"Central African Republic"
+   },
+   {
+      "currency":"XAF",
+      "emoji":"🇹🇩",
+      "emojiU":"U+1F1F9 U+1F1E9",
+      "extension":"235",
+      "iso2":"TD",
+      "label":"Chad",
+      "value":"Chad"
+   },
+   {
+      "currency":"CLP",
+      "emoji":"🇨🇱",
+      "emojiU":"U+1F1E8 U+1F1F1",
+      "extension":"56",
+      "iso2":"CL",
+      "label":"Chile",
+      "value":"Chile"
+   },
+   {
+      "currency":"CNY",
+      "emoji":"🇨🇳",
+      "emojiU":"U+1F1E8 U+1F1F3",
+      "extension":"86",
+      "iso2":"CN",
+      "label":"China",
+      "value":"China"
+   },
+   {
+      "currency":"AUD",
+      "emoji":"🇨🇽",
+      "emojiU":"U+1F1E8 U+1F1FD",
+      "extension":"61",
+      "iso2":"CX",
+      "label":"Christmas Island",
+      "value":"Christmas Island"
+   },
+   {
+      "currency":"AUD",
+      "emoji":"🇨🇨",
+      "emojiU":"U+1F1E8 U+1F1E8",
+      "extension":"61",
+      "iso2":"CC",
+      "label":"Cocos (Keeling) Islands",
+      "value":"Cocos (Keeling) Islands"
+   },
+   {
+      "currency":"COP",
+      "emoji":"🇨🇴",
+      "emojiU":"U+1F1E8 U+1F1F4",
+      "extension":"57",
+      "iso2":"CO",
+      "label":"Colombia",
+      "value":"Colombia"
+   },
+   {
+      "currency":"KMF",
+      "emoji":"🇰🇲",
+      "emojiU":"U+1F1F0 U+1F1F2",
+      "extension":"269",
+      "iso2":"KM",
+      "label":"Comoros",
+      "value":"Comoros"
+   },
+   {
+      "currency":"XAF",
+      "emoji":"🇨🇬",
+      "emojiU":"U+1F1E8 U+1F1EC",
+      "extension":"242",
+      "iso2":"CG",
+      "label":"Congo",
+      "value":"Congo"
+   },
+   {
+      "currency":"NZD",
+      "emoji":"🇨🇰",
+      "emojiU":"U+1F1E8 U+1F1F0",
+      "extension":"682",
+      "iso2":"CK",
+      "label":"Cook Islands",
+      "value":"Cook Islands"
+   },
+   {
+      "currency":"CRC",
+      "emoji":"🇨🇷",
+      "emojiU":"U+1F1E8 U+1F1F7",
+      "extension":"506",
+      "iso2":"CR",
+      "label":"Costa Rica",
+      "value":"Costa Rica"
+   },
+   {
+      "currency":"XOF",
+      "emoji":"🇨🇮",
+      "emojiU":"U+1F1E8 U+1F1EE",
+      "extension":"225",
+      "iso2":"CI",
+      "label":"Cote D'Ivoire (Ivory Coast)",
+      "value":"Cote D'Ivoire (Ivory Coast)"
+   },
+   {
+      "currency":"HRK",
+      "emoji":"🇭🇷",
+      "emojiU":"U+1F1ED U+1F1F7",
+      "extension":"385",
+      "iso2":"HR",
+      "label":"Croatia",
+      "value":"Croatia"
+   },
+   {
+      "currency":"CUP",
+      "emoji":"🇨🇺",
+      "emojiU":"U+1F1E8 U+1F1FA",
+      "extension":"53",
+      "iso2":"CU",
+      "label":"Cuba",
+      "value":"Cuba"
+   },
+   {
+      "currency":"ANG",
+      "emoji":"🇨🇼",
+      "emojiU":"U+1F1E8 U+1F1FC",
+      "extension":"599",
+      "iso2":"CW",
+      "label":"Curaçao",
+      "value":"Curaçao"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇨🇾",
+      "emojiU":"U+1F1E8 U+1F1FE",
+      "extension":"357",
+      "iso2":"CY",
+      "label":"Cyprus",
+      "value":"Cyprus"
+   },
+   {
+      "currency":"CZK",
+      "emoji":"🇨🇿",
+      "emojiU":"U+1F1E8 U+1F1FF",
+      "extension":"420",
+      "iso2":"CZ",
+      "label":"Czech Republic",
+      "value":"Czech Republic"
+   },
+   {
+      "currency":"CDF",
+      "emoji":"🇨🇩",
+      "emojiU":"U+1F1E8 U+1F1E9",
+      "extension":"243",
+      "iso2":"CD",
+      "label":"Democratic Republic of the Congo",
+      "value":"Democratic Republic of the Congo"
+   },
+   {
+      "currency":"DKK",
+      "emoji":"🇩🇰",
+      "emojiU":"U+1F1E9 U+1F1F0",
+      "extension":"45",
+      "iso2":"DK",
+      "label":"Denmark",
+      "value":"Denmark"
+   },
+   {
+      "currency":"DJF",
+      "emoji":"🇩🇯",
+      "emojiU":"U+1F1E9 U+1F1EF",
+      "extension":"253",
+      "iso2":"DJ",
+      "label":"Djibouti",
+      "value":"Djibouti"
+   },
+   {
+      "currency":"XCD",
+      "emoji":"🇩🇲",
+      "emojiU":"U+1F1E9 U+1F1F2",
+      "extension":"+1-767",
+      "iso2":"DM",
+      "label":"Dominica",
+      "value":"Dominica"
+   },
+   {
+      "currency":"DOP",
+      "emoji":"🇩🇴",
+      "emojiU":"U+1F1E9 U+1F1F4",
+      "extension":"+1-809 and 1-829",
+      "iso2":"DO",
+      "label":"Dominican Republic",
+      "value":"Dominican Republic"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇹🇱",
+      "emojiU":"U+1F1F9 U+1F1F1",
+      "extension":"670",
+      "iso2":"TL",
+      "label":"East Timor",
+      "value":"East Timor"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇪🇨",
+      "emojiU":"U+1F1EA U+1F1E8",
+      "extension":"593",
+      "iso2":"EC",
+      "label":"Ecuador",
+      "value":"Ecuador"
+   },
+   {
+      "currency":"EGP",
+      "emoji":"🇪🇬",
+      "emojiU":"U+1F1EA U+1F1EC",
+      "extension":"20",
+      "iso2":"EG",
+      "label":"Egypt",
+      "value":"Egypt"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇸🇻",
+      "emojiU":"U+1F1F8 U+1F1FB",
+      "extension":"503",
+      "iso2":"SV",
+      "label":"El Salvador",
+      "value":"El Salvador"
+   },
+   {
+      "currency":"XAF",
+      "emoji":"🇬🇶",
+      "emojiU":"U+1F1EC U+1F1F6",
+      "extension":"240",
+      "iso2":"GQ",
+      "label":"Equatorial Guinea",
+      "value":"Equatorial Guinea"
+   },
+   {
+      "currency":"ERN",
+      "emoji":"🇪🇷",
+      "emojiU":"U+1F1EA U+1F1F7",
+      "extension":"291",
+      "iso2":"ER",
+      "label":"Eritrea",
+      "value":"Eritrea"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇪🇪",
+      "emojiU":"U+1F1EA U+1F1EA",
+      "extension":"372",
+      "iso2":"EE",
+      "label":"Estonia",
+      "value":"Estonia"
+   },
+   {
+      "currency":"ETB",
+      "emoji":"🇪🇹",
+      "emojiU":"U+1F1EA U+1F1F9",
+      "extension":"251",
+      "iso2":"ET",
+      "label":"Ethiopia",
+      "value":"Ethiopia"
+   },
+   {
+      "currency":"FKP",
+      "emoji":"🇫🇰",
+      "emojiU":"U+1F1EB U+1F1F0",
+      "extension":"500",
+      "iso2":"FK",
+      "label":"Falkland Islands",
+      "value":"Falkland Islands"
+   },
+   {
+      "currency":"DKK",
+      "emoji":"🇫🇴",
+      "emojiU":"U+1F1EB U+1F1F4",
+      "extension":"298",
+      "iso2":"FO",
+      "label":"Faroe Islands",
+      "value":"Faroe Islands"
+   },
+   {
+      "currency":"FJD",
+      "emoji":"🇫🇯",
+      "emojiU":"U+1F1EB U+1F1EF",
+      "extension":"679",
+      "iso2":"FJ",
+      "label":"Fiji Islands",
+      "value":"Fiji Islands"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇫🇮",
+      "emojiU":"U+1F1EB U+1F1EE",
+      "extension":"358",
+      "iso2":"FI",
+      "label":"Finland",
+      "value":"Finland"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇫🇷",
+      "emojiU":"U+1F1EB U+1F1F7",
+      "extension":"33",
+      "iso2":"FR",
+      "label":"France",
+      "value":"France"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇬🇫",
+      "emojiU":"U+1F1EC U+1F1EB",
+      "extension":"594",
+      "iso2":"GF",
+      "label":"French Guiana",
+      "value":"French Guiana"
+   },
+   {
+      "currency":"XPF",
+      "emoji":"🇵🇫",
+      "emojiU":"U+1F1F5 U+1F1EB",
+      "extension":"689",
+      "iso2":"PF",
+      "label":"French Polynesia",
+      "value":"French Polynesia"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇹🇫",
+      "emojiU":"U+1F1F9 U+1F1EB",
+      "extension":"262",
+      "iso2":"TF",
+      "label":"French Southern Territories",
+      "value":"French Southern Territories"
+   },
+   {
+      "currency":"XAF",
+      "emoji":"🇬🇦",
+      "emojiU":"U+1F1EC U+1F1E6",
+      "extension":"241",
+      "iso2":"GA",
+      "label":"Gabon",
+      "value":"Gabon"
+   },
+   {
+      "currency":"GMD",
+      "emoji":"🇬🇲",
+      "emojiU":"U+1F1EC U+1F1F2",
+      "extension":"220",
+      "iso2":"GM",
+      "label":"Gambia The",
+      "value":"Gambia The"
+   },
+   {
+      "currency":"GEL",
+      "emoji":"🇬🇪",
+      "emojiU":"U+1F1EC U+1F1EA",
+      "extension":"995",
+      "iso2":"GE",
+      "label":"Georgia",
+      "value":"Georgia"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇩🇪",
+      "emojiU":"U+1F1E9 U+1F1EA",
+      "extension":"49",
+      "iso2":"DE",
+      "label":"Germany",
+      "value":"Germany"
+   },
+   {
+      "currency":"GHS",
+      "emoji":"🇬🇭",
+      "emojiU":"U+1F1EC U+1F1ED",
+      "extension":"233",
+      "iso2":"GH",
+      "label":"Ghana",
+      "value":"Ghana"
+   },
+   {
+      "currency":"GIP",
+      "emoji":"🇬🇮",
+      "emojiU":"U+1F1EC U+1F1EE",
+      "extension":"350",
+      "iso2":"GI",
+      "label":"Gibraltar",
+      "value":"Gibraltar"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇬🇷",
+      "emojiU":"U+1F1EC U+1F1F7",
+      "extension":"30",
+      "iso2":"GR",
+      "label":"Greece",
+      "value":"Greece"
+   },
+   {
+      "currency":"DKK",
+      "emoji":"🇬🇱",
+      "emojiU":"U+1F1EC U+1F1F1",
+      "extension":"299",
+      "iso2":"GL",
+      "label":"Greenland",
+      "value":"Greenland"
+   },
+   {
+      "currency":"XCD",
+      "emoji":"🇬🇩",
+      "emojiU":"U+1F1EC U+1F1E9",
+      "extension":"+1-473",
+      "iso2":"GD",
+      "label":"Grenada",
+      "value":"Grenada"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇬🇵",
+      "emojiU":"U+1F1EC U+1F1F5",
+      "extension":"590",
+      "iso2":"GP",
+      "label":"Guadeloupe",
+      "value":"Guadeloupe"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇬🇺",
+      "emojiU":"U+1F1EC U+1F1FA",
+      "extension":"+1-671",
+      "iso2":"GU",
+      "label":"Guam",
+      "value":"Guam"
+   },
+   {
+      "currency":"GTQ",
+      "emoji":"🇬🇹",
+      "emojiU":"U+1F1EC U+1F1F9",
+      "extension":"502",
+      "iso2":"GT",
+      "label":"Guatemala",
+      "value":"Guatemala"
+   },
+   {
+      "currency":"GBP",
+      "emoji":"🇬🇬",
+      "emojiU":"U+1F1EC U+1F1EC",
+      "extension":"+44-1481",
+      "iso2":"GG",
+      "label":"Guernsey and Alderney",
+      "value":"Guernsey and Alderney"
+   },
+   {
+      "currency":"GNF",
+      "emoji":"🇬🇳",
+      "emojiU":"U+1F1EC U+1F1F3",
+      "extension":"224",
+      "iso2":"GN",
+      "label":"Guinea",
+      "value":"Guinea"
+   },
+   {
+      "currency":"XOF",
+      "emoji":"🇬🇼",
+      "emojiU":"U+1F1EC U+1F1FC",
+      "extension":"245",
+      "iso2":"GW",
+      "label":"Guinea-Bissau",
+      "value":"Guinea-Bissau"
+   },
+   {
+      "currency":"GYD",
+      "emoji":"🇬🇾",
+      "emojiU":"U+1F1EC U+1F1FE",
+      "extension":"592",
+      "iso2":"GY",
+      "label":"Guyana",
+      "value":"Guyana"
+   },
+   {
+      "currency":"HTG",
+      "emoji":"🇭🇹",
+      "emojiU":"U+1F1ED U+1F1F9",
+      "extension":"509",
+      "iso2":"HT",
+      "label":"Haiti",
+      "value":"Haiti"
+   },
+   {
+      "currency":"AUD",
+      "emoji":"🇭🇲",
+      "emojiU":"U+1F1ED U+1F1F2",
+      "extension":"672",
+      "iso2":"HM",
+      "label":"Heard Island and McDonald Islands",
+      "value":"Heard Island and McDonald Islands"
+   },
+   {
+      "currency":"HNL",
+      "emoji":"🇭🇳",
+      "emojiU":"U+1F1ED U+1F1F3",
+      "extension":"504",
+      "iso2":"HN",
+      "label":"Honduras",
+      "value":"Honduras"
+   },
+   {
+      "currency":"HKD",
+      "emoji":"🇭🇰",
+      "emojiU":"U+1F1ED U+1F1F0",
+      "extension":"852",
+      "iso2":"HK",
+      "label":"Hong Kong S.A.R.",
+      "value":"Hong Kong S.A.R."
+   },
+   {
+      "currency":"HUF",
+      "emoji":"🇭🇺",
+      "emojiU":"U+1F1ED U+1F1FA",
+      "extension":"36",
+      "iso2":"HU",
+      "label":"Hungary",
+      "value":"Hungary"
+   },
+   {
+      "currency":"ISK",
+      "emoji":"🇮🇸",
+      "emojiU":"U+1F1EE U+1F1F8",
+      "extension":"354",
+      "iso2":"IS",
+      "label":"Iceland",
+      "value":"Iceland"
+   },
+   {
+      "currency":"INR",
+      "emoji":"🇮🇳",
+      "emojiU":"U+1F1EE U+1F1F3",
+      "extension":"91",
+      "iso2":"IN",
+      "label":"India",
+      "value":"India"
+   },
+   {
+      "currency":"IDR",
+      "emoji":"🇮🇩",
+      "emojiU":"U+1F1EE U+1F1E9",
+      "extension":"62",
+      "iso2":"ID",
+      "label":"Indonesia",
+      "value":"Indonesia"
+   },
+   {
+      "currency":"IRR",
+      "emoji":"🇮🇷",
+      "emojiU":"U+1F1EE U+1F1F7",
+      "extension":"98",
+      "iso2":"IR",
+      "label":"Iran",
+      "value":"Iran"
+   },
+   {
+      "currency":"IQD",
+      "emoji":"🇮🇶",
+      "emojiU":"U+1F1EE U+1F1F6",
+      "extension":"964",
+      "iso2":"IQ",
+      "label":"Iraq",
+      "value":"Iraq"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇮🇪",
+      "emojiU":"U+1F1EE U+1F1EA",
+      "extension":"353",
+      "iso2":"IE",
+      "label":"Ireland",
+      "value":"Ireland"
+   },
+   {
+      "currency":"ILS",
+      "emoji":"🇮🇱",
+      "emojiU":"U+1F1EE U+1F1F1",
+      "extension":"972",
+      "iso2":"IL",
+      "label":"Israel",
+      "value":"Israel"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇮🇹",
+      "emojiU":"U+1F1EE U+1F1F9",
+      "extension":"39",
+      "iso2":"IT",
+      "label":"Italy",
+      "value":"Italy"
+   },
+   {
+      "currency":"JMD",
+      "emoji":"🇯🇲",
+      "emojiU":"U+1F1EF U+1F1F2",
+      "extension":"+1-876",
+      "iso2":"JM",
+      "label":"Jamaica",
+      "value":"Jamaica"
+   },
+   {
+      "currency":"JPY",
+      "emoji":"🇯🇵",
+      "emojiU":"U+1F1EF U+1F1F5",
+      "extension":"81",
+      "iso2":"JP",
+      "label":"Japan",
+      "value":"Japan"
+   },
+   {
+      "currency":"GBP",
+      "emoji":"🇯🇪",
+      "emojiU":"U+1F1EF U+1F1EA",
+      "extension":"+44-1534",
+      "iso2":"JE",
+      "label":"Jersey",
+      "value":"Jersey"
+   },
+   {
+      "currency":"JOD",
+      "emoji":"🇯🇴",
+      "emojiU":"U+1F1EF U+1F1F4",
+      "extension":"962",
+      "iso2":"JO",
+      "label":"Jordan",
+      "value":"Jordan"
+   },
+   {
+      "currency":"KZT",
+      "emoji":"🇰🇿",
+      "emojiU":"U+1F1F0 U+1F1FF",
+      "extension":"7",
+      "iso2":"KZ",
+      "label":"Kazakhstan",
+      "value":"Kazakhstan"
+   },
+   {
+      "currency":"KES",
+      "emoji":"🇰🇪",
+      "emojiU":"U+1F1F0 U+1F1EA",
+      "extension":"254",
+      "iso2":"KE",
+      "label":"Kenya",
+      "value":"Kenya"
+   },
+   {
+      "currency":"AUD",
+      "emoji":"🇰🇮",
+      "emojiU":"U+1F1F0 U+1F1EE",
+      "extension":"686",
+      "iso2":"KI",
+      "label":"Kiribati",
+      "value":"Kiribati"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇽🇰",
+      "emojiU":"U+1F1FD U+1F1F0",
+      "extension":"383",
+      "iso2":"XK",
+      "label":"Kosovo",
+      "value":"Kosovo"
+   },
+   {
+      "currency":"KWD",
+      "emoji":"🇰🇼",
+      "emojiU":"U+1F1F0 U+1F1FC",
+      "extension":"965",
+      "iso2":"KW",
+      "label":"Kuwait",
+      "value":"Kuwait"
+   },
+   {
+      "currency":"KGS",
+      "emoji":"🇰🇬",
+      "emojiU":"U+1F1F0 U+1F1EC",
+      "extension":"996",
+      "iso2":"KG",
+      "label":"Kyrgyzstan",
+      "value":"Kyrgyzstan"
+   },
+   {
+      "currency":"LAK",
+      "emoji":"🇱🇦",
+      "emojiU":"U+1F1F1 U+1F1E6",
+      "extension":"856",
+      "iso2":"LA",
+      "label":"Laos",
+      "value":"Laos"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇱🇻",
+      "emojiU":"U+1F1F1 U+1F1FB",
+      "extension":"371",
+      "iso2":"LV",
+      "label":"Latvia",
+      "value":"Latvia"
+   },
+   {
+      "currency":"LBP",
+      "emoji":"🇱🇧",
+      "emojiU":"U+1F1F1 U+1F1E7",
+      "extension":"961",
+      "iso2":"LB",
+      "label":"Lebanon",
+      "value":"Lebanon"
+   },
+   {
+      "currency":"LSL",
+      "emoji":"🇱🇸",
+      "emojiU":"U+1F1F1 U+1F1F8",
+      "extension":"266",
+      "iso2":"LS",
+      "label":"Lesotho",
+      "value":"Lesotho"
+   },
+   {
+      "currency":"LRD",
+      "emoji":"🇱🇷",
+      "emojiU":"U+1F1F1 U+1F1F7",
+      "extension":"231",
+      "iso2":"LR",
+      "label":"Liberia",
+      "value":"Liberia"
+   },
+   {
+      "currency":"LYD",
+      "emoji":"🇱🇾",
+      "emojiU":"U+1F1F1 U+1F1FE",
+      "extension":"218",
+      "iso2":"LY",
+      "label":"Libya",
+      "value":"Libya"
+   },
+   {
+      "currency":"CHF",
+      "emoji":"🇱🇮",
+      "emojiU":"U+1F1F1 U+1F1EE",
+      "extension":"423",
+      "iso2":"LI",
+      "label":"Liechtenstein",
+      "value":"Liechtenstein"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇱🇹",
+      "emojiU":"U+1F1F1 U+1F1F9",
+      "extension":"370",
+      "iso2":"LT",
+      "label":"Lithuania",
+      "value":"Lithuania"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇱🇺",
+      "emojiU":"U+1F1F1 U+1F1FA",
+      "extension":"352",
+      "iso2":"LU",
+      "label":"Luxembourg",
+      "value":"Luxembourg"
+   },
+   {
+      "currency":"MOP",
+      "emoji":"🇲🇴",
+      "emojiU":"U+1F1F2 U+1F1F4",
+      "extension":"853",
+      "iso2":"MO",
+      "label":"Macau S.A.R.",
+      "value":"Macau S.A.R."
+   },
+   {
+      "currency":"MKD",
+      "emoji":"🇲🇰",
+      "emojiU":"U+1F1F2 U+1F1F0",
+      "extension":"389",
+      "iso2":"MK",
+      "label":"Macedonia",
+      "value":"Macedonia"
+   },
+   {
+      "currency":"MGA",
+      "emoji":"🇲🇬",
+      "emojiU":"U+1F1F2 U+1F1EC",
+      "extension":"261",
+      "iso2":"MG",
+      "label":"Madagascar",
+      "value":"Madagascar"
+   },
+   {
+      "currency":"MWK",
+      "emoji":"🇲🇼",
+      "emojiU":"U+1F1F2 U+1F1FC",
+      "extension":"265",
+      "iso2":"MW",
+      "label":"Malawi",
+      "value":"Malawi"
+   },
+   {
+      "currency":"MYR",
+      "emoji":"🇲🇾",
+      "emojiU":"U+1F1F2 U+1F1FE",
+      "extension":"60",
+      "iso2":"MY",
+      "label":"Malaysia",
+      "value":"Malaysia"
+   },
+   {
+      "currency":"MVR",
+      "emoji":"🇲🇻",
+      "emojiU":"U+1F1F2 U+1F1FB",
+      "extension":"960",
+      "iso2":"MV",
+      "label":"Maldives",
+      "value":"Maldives"
+   },
+   {
+      "currency":"XOF",
+      "emoji":"🇲🇱",
+      "emojiU":"U+1F1F2 U+1F1F1",
+      "extension":"223",
+      "iso2":"ML",
+      "label":"Mali",
+      "value":"Mali"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇲🇹",
+      "emojiU":"U+1F1F2 U+1F1F9",
+      "extension":"356",
+      "iso2":"MT",
+      "label":"Malta",
+      "value":"Malta"
+   },
+   {
+      "currency":"GBP",
+      "emoji":"🇮🇲",
+      "emojiU":"U+1F1EE U+1F1F2",
+      "extension":"+44-1624",
+      "iso2":"IM",
+      "label":"Man (Isle of)",
+      "value":"Man (Isle of)"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇲🇭",
+      "emojiU":"U+1F1F2 U+1F1ED",
+      "extension":"692",
+      "iso2":"MH",
+      "label":"Marshall Islands",
+      "value":"Marshall Islands"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇲🇶",
+      "emojiU":"U+1F1F2 U+1F1F6",
+      "extension":"596",
+      "iso2":"MQ",
+      "label":"Martinique",
+      "value":"Martinique"
+   },
+   {
+      "currency":"MRO",
+      "emoji":"🇲🇷",
+      "emojiU":"U+1F1F2 U+1F1F7",
+      "extension":"222",
+      "iso2":"MR",
+      "label":"Mauritania",
+      "value":"Mauritania"
+   },
+   {
+      "currency":"MUR",
+      "emoji":"🇲🇺",
+      "emojiU":"U+1F1F2 U+1F1FA",
+      "extension":"230",
+      "iso2":"MU",
+      "label":"Mauritius",
+      "value":"Mauritius"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇾🇹",
+      "emojiU":"U+1F1FE U+1F1F9",
+      "extension":"262",
+      "iso2":"YT",
+      "label":"Mayotte",
+      "value":"Mayotte"
+   },
+   {
+      "currency":"MXN",
+      "emoji":"🇲🇽",
+      "emojiU":"U+1F1F2 U+1F1FD",
+      "extension":"52",
+      "iso2":"MX",
+      "label":"Mexico",
+      "value":"Mexico"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇫🇲",
+      "emojiU":"U+1F1EB U+1F1F2",
+      "extension":"691",
+      "iso2":"FM",
+      "label":"Micronesia",
+      "value":"Micronesia"
+   },
+   {
+      "currency":"MDL",
+      "emoji":"🇲🇩",
+      "emojiU":"U+1F1F2 U+1F1E9",
+      "extension":"373",
+      "iso2":"MD",
+      "label":"Moldova",
+      "value":"Moldova"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇲🇨",
+      "emojiU":"U+1F1F2 U+1F1E8",
+      "extension":"377",
+      "iso2":"MC",
+      "label":"Monaco",
+      "value":"Monaco"
+   },
+   {
+      "currency":"MNT",
+      "emoji":"🇲🇳",
+      "emojiU":"U+1F1F2 U+1F1F3",
+      "extension":"976",
+      "iso2":"MN",
+      "label":"Mongolia",
+      "value":"Mongolia"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇲🇪",
+      "emojiU":"U+1F1F2 U+1F1EA",
+      "extension":"382",
+      "iso2":"ME",
+      "label":"Montenegro",
+      "value":"Montenegro"
+   },
+   {
+      "currency":"XCD",
+      "emoji":"🇲🇸",
+      "emojiU":"U+1F1F2 U+1F1F8",
+      "extension":"+1-664",
+      "iso2":"MS",
+      "label":"Montserrat",
+      "value":"Montserrat"
+   },
+   {
+      "currency":"MAD",
+      "emoji":"🇲🇦",
+      "emojiU":"U+1F1F2 U+1F1E6",
+      "extension":"212",
+      "iso2":"MA",
+      "label":"Morocco",
+      "value":"Morocco"
+   },
+   {
+      "currency":"MZN",
+      "emoji":"🇲🇿",
+      "emojiU":"U+1F1F2 U+1F1FF",
+      "extension":"258",
+      "iso2":"MZ",
+      "label":"Mozambique",
+      "value":"Mozambique"
+   },
+   {
+      "currency":"MMK",
+      "emoji":"🇲🇲",
+      "emojiU":"U+1F1F2 U+1F1F2",
+      "extension":"95",
+      "iso2":"MM",
+      "label":"Myanmar",
+      "value":"Myanmar"
+   },
+   {
+      "currency":"NAD",
+      "emoji":"🇳🇦",
+      "emojiU":"U+1F1F3 U+1F1E6",
+      "extension":"264",
+      "iso2":"NA",
+      "label":"Namibia",
+      "value":"Namibia"
+   },
+   {
+      "currency":"AUD",
+      "emoji":"🇳🇷",
+      "emojiU":"U+1F1F3 U+1F1F7",
+      "extension":"674",
+      "iso2":"NR",
+      "label":"Nauru",
+      "value":"Nauru"
+   },
+   {
+      "currency":"NPR",
+      "emoji":"🇳🇵",
+      "emojiU":"U+1F1F3 U+1F1F5",
+      "extension":"977",
+      "iso2":"NP",
+      "label":"Nepal",
+      "value":"Nepal"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇳🇱",
+      "emojiU":"U+1F1F3 U+1F1F1",
+      "extension":"31",
+      "iso2":"NL",
+      "label":"Netherlands",
+      "value":"Netherlands"
+   },
+   {
+      "currency":"XPF",
+      "emoji":"🇳🇨",
+      "emojiU":"U+1F1F3 U+1F1E8",
+      "extension":"687",
+      "iso2":"NC",
+      "label":"New Caledonia",
+      "value":"New Caledonia"
+   },
+   {
+      "currency":"NZD",
+      "emoji":"🇳🇿",
+      "emojiU":"U+1F1F3 U+1F1FF",
+      "extension":"64",
+      "iso2":"NZ",
+      "label":"New Zealand",
+      "value":"New Zealand"
+   },
+   {
+      "currency":"NIO",
+      "emoji":"🇳🇮",
+      "emojiU":"U+1F1F3 U+1F1EE",
+      "extension":"505",
+      "iso2":"NI",
+      "label":"Nicaragua",
+      "value":"Nicaragua"
+   },
+   {
+      "currency":"XOF",
+      "emoji":"🇳🇪",
+      "emojiU":"U+1F1F3 U+1F1EA",
+      "extension":"227",
+      "iso2":"NE",
+      "label":"Niger",
+      "value":"Niger"
+   },
+   {
+      "currency":"NGN",
+      "emoji":"🇳🇬",
+      "emojiU":"U+1F1F3 U+1F1EC",
+      "extension":"234",
+      "iso2":"NG",
+      "label":"Nigeria",
+      "value":"Nigeria"
+   },
+   {
+      "currency":"NZD",
+      "emoji":"🇳🇺",
+      "emojiU":"U+1F1F3 U+1F1FA",
+      "extension":"683",
+      "iso2":"NU",
+      "label":"Niue",
+      "value":"Niue"
+   },
+   {
+      "currency":"AUD",
+      "emoji":"🇳🇫",
+      "emojiU":"U+1F1F3 U+1F1EB",
+      "extension":"672",
+      "iso2":"NF",
+      "label":"Norfolk Island",
+      "value":"Norfolk Island"
+   },
+   {
+      "currency":"KPW",
+      "emoji":"🇰🇵",
+      "emojiU":"U+1F1F0 U+1F1F5",
+      "extension":"850",
+      "iso2":"KP",
+      "label":"North Korea",
+      "value":"North Korea"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇲🇵",
+      "emojiU":"U+1F1F2 U+1F1F5",
+      "extension":"+1-670",
+      "iso2":"MP",
+      "label":"Northern Mariana Islands",
+      "value":"Northern Mariana Islands"
+   },
+   {
+      "currency":"NOK",
+      "emoji":"🇳🇴",
+      "emojiU":"U+1F1F3 U+1F1F4",
+      "extension":"47",
+      "iso2":"NO",
+      "label":"Norway",
+      "value":"Norway"
+   },
+   {
+      "currency":"OMR",
+      "emoji":"🇴🇲",
+      "emojiU":"U+1F1F4 U+1F1F2",
+      "extension":"968",
+      "iso2":"OM",
+      "label":"Oman",
+      "value":"Oman"
+   },
+   {
+      "currency":"PKR",
+      "emoji":"🇵🇰",
+      "emojiU":"U+1F1F5 U+1F1F0",
+      "extension":"92",
+      "iso2":"PK",
+      "label":"Pakistan",
+      "value":"Pakistan"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇵🇼",
+      "emojiU":"U+1F1F5 U+1F1FC",
+      "extension":"680",
+      "iso2":"PW",
+      "label":"Palau",
+      "value":"Palau"
+   },
+   {
+      "currency":"ILS",
+      "emoji":"🇵🇸",
+      "emojiU":"U+1F1F5 U+1F1F8",
+      "extension":"970",
+      "iso2":"PS",
+      "label":"Palestinian Territory Occupied",
+      "value":"Palestinian Territory Occupied"
+   },
+   {
+      "currency":"PAB",
+      "emoji":"🇵🇦",
+      "emojiU":"U+1F1F5 U+1F1E6",
+      "extension":"507",
+      "iso2":"PA",
+      "label":"Panama",
+      "value":"Panama"
+   },
+   {
+      "currency":"PGK",
+      "emoji":"🇵🇬",
+      "emojiU":"U+1F1F5 U+1F1EC",
+      "extension":"675",
+      "iso2":"PG",
+      "label":"Papua new Guinea",
+      "value":"Papua new Guinea"
+   },
+   {
+      "currency":"PYG",
+      "emoji":"🇵🇾",
+      "emojiU":"U+1F1F5 U+1F1FE",
+      "extension":"595",
+      "iso2":"PY",
+      "label":"Paraguay",
+      "value":"Paraguay"
+   },
+   {
+      "currency":"PEN",
+      "emoji":"🇵🇪",
+      "emojiU":"U+1F1F5 U+1F1EA",
+      "extension":"51",
+      "iso2":"PE",
+      "label":"Peru",
+      "value":"Peru"
+   },
+   {
+      "currency":"PHP",
+      "emoji":"🇵🇭",
+      "emojiU":"U+1F1F5 U+1F1ED",
+      "extension":"63",
+      "iso2":"PH",
+      "label":"Philippines",
+      "value":"Philippines"
+   },
+   {
+      "currency":"NZD",
+      "emoji":"🇵🇳",
+      "emojiU":"U+1F1F5 U+1F1F3",
+      "extension":"870",
+      "iso2":"PN",
+      "label":"Pitcairn Island",
+      "value":"Pitcairn Island"
+   },
+   {
+      "currency":"PLN",
+      "emoji":"🇵🇱",
+      "emojiU":"U+1F1F5 U+1F1F1",
+      "extension":"48",
+      "iso2":"PL",
+      "label":"Poland",
+      "value":"Poland"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇵🇹",
+      "emojiU":"U+1F1F5 U+1F1F9",
+      "extension":"351",
+      "iso2":"PT",
+      "label":"Portugal",
+      "value":"Portugal"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇵🇷",
+      "emojiU":"U+1F1F5 U+1F1F7",
+      "extension":"+1-787 and 1-939",
+      "iso2":"PR",
+      "label":"Puerto Rico",
+      "value":"Puerto Rico"
+   },
+   {
+      "currency":"QAR",
+      "emoji":"🇶🇦",
+      "emojiU":"U+1F1F6 U+1F1E6",
+      "extension":"974",
+      "iso2":"QA",
+      "label":"Qatar",
+      "value":"Qatar"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇷🇪",
+      "emojiU":"U+1F1F7 U+1F1EA",
+      "extension":"262",
+      "iso2":"RE",
+      "label":"Reunion",
+      "value":"Reunion"
+   },
+   {
+      "currency":"RON",
+      "emoji":"🇷🇴",
+      "emojiU":"U+1F1F7 U+1F1F4",
+      "extension":"40",
+      "iso2":"RO",
+      "label":"Romania",
+      "value":"Romania"
+   },
+   {
+      "currency":"RUB",
+      "emoji":"🇷🇺",
+      "emojiU":"U+1F1F7 U+1F1FA",
+      "extension":"7",
+      "iso2":"RU",
+      "label":"Russia",
+      "value":"Russia"
+   },
+   {
+      "currency":"RWF",
+      "emoji":"🇷🇼",
+      "emojiU":"U+1F1F7 U+1F1FC",
+      "extension":"250",
+      "iso2":"RW",
+      "label":"Rwanda",
+      "value":"Rwanda"
+   },
+   {
+      "currency":"SHP",
+      "emoji":"🇸🇭",
+      "emojiU":"U+1F1F8 U+1F1ED",
+      "extension":"290",
+      "iso2":"SH",
+      "label":"Saint Helena",
+      "value":"Saint Helena"
+   },
+   {
+      "currency":"XCD",
+      "emoji":"🇰🇳",
+      "emojiU":"U+1F1F0 U+1F1F3",
+      "extension":"+1-869",
+      "iso2":"KN",
+      "label":"Saint Kitts And Nevis",
+      "value":"Saint Kitts And Nevis"
+   },
+   {
+      "currency":"XCD",
+      "emoji":"🇱🇨",
+      "emojiU":"U+1F1F1 U+1F1E8",
+      "extension":"+1-758",
+      "iso2":"LC",
+      "label":"Saint Lucia",
+      "value":"Saint Lucia"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇵🇲",
+      "emojiU":"U+1F1F5 U+1F1F2",
+      "extension":"508",
+      "iso2":"PM",
+      "label":"Saint Pierre and Miquelon",
+      "value":"Saint Pierre and Miquelon"
+   },
+   {
+      "currency":"XCD",
+      "emoji":"🇻🇨",
+      "emojiU":"U+1F1FB U+1F1E8",
+      "extension":"+1-784",
+      "iso2":"VC",
+      "label":"Saint Vincent And The Grenadines",
+      "value":"Saint Vincent And The Grenadines"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇧🇱",
+      "emojiU":"U+1F1E7 U+1F1F1",
+      "extension":"590",
+      "iso2":"BL",
+      "label":"Saint-Barthelemy",
+      "value":"Saint-Barthelemy"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇲🇫",
+      "emojiU":"U+1F1F2 U+1F1EB",
+      "extension":"590",
+      "iso2":"MF",
+      "label":"Saint-Martin (French part)",
+      "value":"Saint-Martin (French part)"
+   },
+   {
+      "currency":"WST",
+      "emoji":"🇼🇸",
+      "emojiU":"U+1F1FC U+1F1F8",
+      "extension":"685",
+      "iso2":"WS",
+      "label":"Samoa",
+      "value":"Samoa"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇸🇲",
+      "emojiU":"U+1F1F8 U+1F1F2",
+      "extension":"378",
+      "iso2":"SM",
+      "label":"San Marino",
+      "value":"San Marino"
+   },
+   {
+      "currency":"STD",
+      "emoji":"🇸🇹",
+      "emojiU":"U+1F1F8 U+1F1F9",
+      "extension":"239",
+      "iso2":"ST",
+      "label":"Sao Tome and Principe",
+      "value":"Sao Tome and Principe"
+   },
+   {
+      "currency":"SAR",
+      "emoji":"🇸🇦",
+      "emojiU":"U+1F1F8 U+1F1E6",
+      "extension":"966",
+      "iso2":"SA",
+      "label":"Saudi Arabia",
+      "value":"Saudi Arabia"
+   },
+   {
+      "currency":"XOF",
+      "emoji":"🇸🇳",
+      "emojiU":"U+1F1F8 U+1F1F3",
+      "extension":"221",
+      "iso2":"SN",
+      "label":"Senegal",
+      "value":"Senegal"
+   },
+   {
+      "currency":"RSD",
+      "emoji":"🇷🇸",
+      "emojiU":"U+1F1F7 U+1F1F8",
+      "extension":"381",
+      "iso2":"RS",
+      "label":"Serbia",
+      "value":"Serbia"
+   },
+   {
+      "currency":"SCR",
+      "emoji":"🇸🇨",
+      "emojiU":"U+1F1F8 U+1F1E8",
+      "extension":"248",
+      "iso2":"SC",
+      "label":"Seychelles",
+      "value":"Seychelles"
+   },
+   {
+      "currency":"SLL",
+      "emoji":"🇸🇱",
+      "emojiU":"U+1F1F8 U+1F1F1",
+      "extension":"232",
+      "iso2":"SL",
+      "label":"Sierra Leone",
+      "value":"Sierra Leone"
+   },
+   {
+      "currency":"SGD",
+      "emoji":"🇸🇬",
+      "emojiU":"U+1F1F8 U+1F1EC",
+      "extension":"65",
+      "iso2":"SG",
+      "label":"Singapore",
+      "value":"Singapore"
+   },
+   {
+      "currency":"ANG",
+      "emoji":"🇸🇽",
+      "emojiU":"U+1F1F8 U+1F1FD",
+      "extension":"1721",
+      "iso2":"SX",
+      "label":"Sint Maarten (Dutch part)",
+      "value":"Sint Maarten (Dutch part)"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇸🇰",
+      "emojiU":"U+1F1F8 U+1F1F0",
+      "extension":"421",
+      "iso2":"SK",
+      "label":"Slovakia",
+      "value":"Slovakia"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇸🇮",
+      "emojiU":"U+1F1F8 U+1F1EE",
+      "extension":"386",
+      "iso2":"SI",
+      "label":"Slovenia",
+      "value":"Slovenia"
+   },
+   {
+      "currency":"SBD",
+      "emoji":"🇸🇧",
+      "emojiU":"U+1F1F8 U+1F1E7",
+      "extension":"677",
+      "iso2":"SB",
+      "label":"Solomon Islands",
+      "value":"Solomon Islands"
+   },
+   {
+      "currency":"SOS",
+      "emoji":"🇸🇴",
+      "emojiU":"U+1F1F8 U+1F1F4",
+      "extension":"252",
+      "iso2":"SO",
+      "label":"Somalia",
+      "value":"Somalia"
+   },
+   {
+      "currency":"ZAR",
+      "emoji":"🇿🇦",
+      "emojiU":"U+1F1FF U+1F1E6",
+      "extension":"27",
+      "iso2":"ZA",
+      "label":"South Africa",
+      "value":"South Africa"
+   },
+   {
+      "currency":"GBP",
+      "emoji":"🇬🇸",
+      "emojiU":"U+1F1EC U+1F1F8",
+      "extension":"500",
+      "iso2":"GS",
+      "label":"South Georgia",
+      "value":"South Georgia"
+   },
+   {
+      "currency":"KRW",
+      "emoji":"🇰🇷",
+      "emojiU":"U+1F1F0 U+1F1F7",
+      "extension":"82",
+      "iso2":"KR",
+      "label":"South Korea",
+      "value":"South Korea"
+   },
+   {
+      "currency":"SSP",
+      "emoji":"🇸🇸",
+      "emojiU":"U+1F1F8 U+1F1F8",
+      "extension":"211",
+      "iso2":"SS",
+      "label":"South Sudan",
+      "value":"South Sudan"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇪🇸",
+      "emojiU":"U+1F1EA U+1F1F8",
+      "extension":"34",
+      "iso2":"ES",
+      "label":"Spain",
+      "value":"Spain"
+   },
+   {
+      "currency":"LKR",
+      "emoji":"🇱🇰",
+      "emojiU":"U+1F1F1 U+1F1F0",
+      "extension":"94",
+      "iso2":"LK",
+      "label":"Sri Lanka",
+      "value":"Sri Lanka"
+   },
+   {
+      "currency":"SDG",
+      "emoji":"🇸🇩",
+      "emojiU":"U+1F1F8 U+1F1E9",
+      "extension":"249",
+      "iso2":"SD",
+      "label":"Sudan",
+      "value":"Sudan"
+   },
+   {
+      "currency":"SRD",
+      "emoji":"🇸🇷",
+      "emojiU":"U+1F1F8 U+1F1F7",
+      "extension":"597",
+      "iso2":"SR",
+      "label":"Suriname",
+      "value":"Suriname"
+   },
+   {
+      "currency":"NOK",
+      "emoji":"🇸🇯",
+      "emojiU":"U+1F1F8 U+1F1EF",
+      "extension":"47",
+      "iso2":"SJ",
+      "label":"Svalbard And Jan Mayen Islands",
+      "value":"Svalbard And Jan Mayen Islands"
+   },
+   {
+      "currency":"SZL",
+      "emoji":"🇸🇿",
+      "emojiU":"U+1F1F8 U+1F1FF",
+      "extension":"268",
+      "iso2":"SZ",
+      "label":"Swaziland",
+      "value":"Swaziland"
+   },
+   {
+      "currency":"SEK",
+      "emoji":"🇸🇪",
+      "emojiU":"U+1F1F8 U+1F1EA",
+      "extension":"46",
+      "iso2":"SE",
+      "label":"Sweden",
+      "value":"Sweden"
+   },
+   {
+      "currency":"CHF",
+      "emoji":"🇨🇭",
+      "emojiU":"U+1F1E8 U+1F1ED",
+      "extension":"41",
+      "iso2":"CH",
+      "label":"Switzerland",
+      "value":"Switzerland"
+   },
+   {
+      "currency":"SYP",
+      "emoji":"🇸🇾",
+      "emojiU":"U+1F1F8 U+1F1FE",
+      "extension":"963",
+      "iso2":"SY",
+      "label":"Syria",
+      "value":"Syria"
+   },
+   {
+      "currency":"TWD",
+      "emoji":"🇹🇼",
+      "emojiU":"U+1F1F9 U+1F1FC",
+      "extension":"886",
+      "iso2":"TW",
+      "label":"Taiwan",
+      "value":"Taiwan"
+   },
+   {
+      "currency":"TJS",
+      "emoji":"🇹🇯",
+      "emojiU":"U+1F1F9 U+1F1EF",
+      "extension":"992",
+      "iso2":"TJ",
+      "label":"Tajikistan",
+      "value":"Tajikistan"
+   },
+   {
+      "currency":"TZS",
+      "emoji":"🇹🇿",
+      "emojiU":"U+1F1F9 U+1F1FF",
+      "extension":"255",
+      "iso2":"TZ",
+      "label":"Tanzania",
+      "value":"Tanzania"
+   },
+   {
+      "currency":"THB",
+      "emoji":"🇹🇭",
+      "emojiU":"U+1F1F9 U+1F1ED",
+      "extension":"66",
+      "iso2":"TH",
+      "label":"Thailand",
+      "value":"Thailand"
+   },
+   {
+      "currency":"XOF",
+      "emoji":"🇹🇬",
+      "emojiU":"U+1F1F9 U+1F1EC",
+      "extension":"228",
+      "iso2":"TG",
+      "label":"Togo",
+      "value":"Togo"
+   },
+   {
+      "currency":"NZD",
+      "emoji":"🇹🇰",
+      "emojiU":"U+1F1F9 U+1F1F0",
+      "extension":"690",
+      "iso2":"TK",
+      "label":"Tokelau",
+      "value":"Tokelau"
+   },
+   {
+      "currency":"TOP",
+      "emoji":"🇹🇴",
+      "emojiU":"U+1F1F9 U+1F1F4",
+      "extension":"676",
+      "iso2":"TO",
+      "label":"Tonga",
+      "value":"Tonga"
+   },
+   {
+      "currency":"TTD",
+      "emoji":"🇹🇹",
+      "emojiU":"U+1F1F9 U+1F1F9",
+      "extension":"+1-868",
+      "iso2":"TT",
+      "label":"Trinidad And Tobago",
+      "value":"Trinidad And Tobago"
+   },
+   {
+      "currency":"TND",
+      "emoji":"🇹🇳",
+      "emojiU":"U+1F1F9 U+1F1F3",
+      "extension":"216",
+      "iso2":"TN",
+      "label":"Tunisia",
+      "value":"Tunisia"
+   },
+   {
+      "currency":"TRY",
+      "emoji":"🇹🇷",
+      "emojiU":"U+1F1F9 U+1F1F7",
+      "extension":"90",
+      "iso2":"TR",
+      "label":"Turkey",
+      "value":"Turkey"
+   },
+   {
+      "currency":"TMT",
+      "emoji":"🇹🇲",
+      "emojiU":"U+1F1F9 U+1F1F2",
+      "extension":"993",
+      "iso2":"TM",
+      "label":"Turkmenistan",
+      "value":"Turkmenistan"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇹🇨",
+      "emojiU":"U+1F1F9 U+1F1E8",
+      "extension":"+1-649",
+      "iso2":"TC",
+      "label":"Turks And Caicos Islands",
+      "value":"Turks And Caicos Islands"
+   },
+   {
+      "currency":"AUD",
+      "emoji":"🇹🇻",
+      "emojiU":"U+1F1F9 U+1F1FB",
+      "extension":"688",
+      "iso2":"TV",
+      "label":"Tuvalu",
+      "value":"Tuvalu"
+   },
+   {
+      "currency":"UGX",
+      "emoji":"🇺🇬",
+      "emojiU":"U+1F1FA U+1F1EC",
+      "extension":"256",
+      "iso2":"UG",
+      "label":"Uganda",
+      "value":"Uganda"
+   },
+   {
+      "currency":"UAH",
+      "emoji":"🇺🇦",
+      "emojiU":"U+1F1FA U+1F1E6",
+      "extension":"380",
+      "iso2":"UA",
+      "label":"Ukraine",
+      "value":"Ukraine"
+   },
+   {
+      "currency":"AED",
+      "emoji":"🇦🇪",
+      "emojiU":"U+1F1E6 U+1F1EA",
+      "extension":"971",
+      "iso2":"AE",
+      "label":"United Arab Emirates",
+      "value":"United Arab Emirates"
+   },
+   {
+      "currency":"GBP",
+      "emoji":"🇬🇧",
+      "emojiU":"U+1F1EC U+1F1E7",
+      "extension":"44",
+      "iso2":"GB",
+      "label":"United Kingdom",
+      "value":"United Kingdom"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇺🇸",
+      "emojiU":"U+1F1FA U+1F1F8",
+      "extension":"1",
+      "iso2":"US",
+      "label":"United States",
+      "value":"United States"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇺🇲",
+      "emojiU":"U+1F1FA U+1F1F2",
+      "extension":"1",
+      "iso2":"UM",
+      "label":"United States Minor Outlying Islands",
+      "value":"United States Minor Outlying Islands"
+   },
+   {
+      "currency":"UYU",
+      "emoji":"🇺🇾",
+      "emojiU":"U+1F1FA U+1F1FE",
+      "extension":"598",
+      "iso2":"UY",
+      "label":"Uruguay",
+      "value":"Uruguay"
+   },
+   {
+      "currency":"UZS",
+      "emoji":"🇺🇿",
+      "emojiU":"U+1F1FA U+1F1FF",
+      "extension":"998",
+      "iso2":"UZ",
+      "label":"Uzbekistan",
+      "value":"Uzbekistan"
+   },
+   {
+      "currency":"VUV",
+      "emoji":"🇻🇺",
+      "emojiU":"U+1F1FB U+1F1FA",
+      "extension":"678",
+      "iso2":"VU",
+      "label":"Vanuatu",
+      "value":"Vanuatu"
+   },
+   {
+      "currency":"EUR",
+      "emoji":"🇻🇦",
+      "emojiU":"U+1F1FB U+1F1E6",
+      "extension":"379",
+      "iso2":"VA",
+      "label":"Vatican City State (Holy See)",
+      "value":"Vatican City State (Holy See)"
+   },
+   {
+      "currency":"VEF",
+      "emoji":"🇻🇪",
+      "emojiU":"U+1F1FB U+1F1EA",
+      "extension":"58",
+      "iso2":"VE",
+      "label":"Venezuela",
+      "value":"Venezuela"
+   },
+   {
+      "currency":"VND",
+      "emoji":"🇻🇳",
+      "emojiU":"U+1F1FB U+1F1F3",
+      "extension":"84",
+      "iso2":"VN",
+      "label":"Vietnam",
+      "value":"Vietnam"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇻🇬",
+      "emojiU":"U+1F1FB U+1F1EC",
+      "extension":"+1-284",
+      "iso2":"VG",
+      "label":"Virgin Islands (British)",
+      "value":"Virgin Islands (British)"
+   },
+   {
+      "currency":"USD",
+      "emoji":"🇻🇮",
+      "emojiU":"U+1F1FB U+1F1EE",
+      "extension":"+1-340",
+      "iso2":"VI",
+      "label":"Virgin Islands (US)",
+      "value":"Virgin Islands (US)"
+   },
+   {
+      "currency":"XPF",
+      "emoji":"🇼🇫",
+      "emojiU":"U+1F1FC U+1F1EB",
+      "extension":"681",
+      "iso2":"WF",
+      "label":"Wallis And Futuna Islands",
+      "value":"Wallis And Futuna Islands"
+   },
+   {
+      "currency":"MAD",
+      "emoji":"🇪🇭",
+      "emojiU":"U+1F1EA U+1F1ED",
+      "extension":"212",
+      "iso2":"EH",
+      "label":"Western Sahara",
+      "value":"Western Sahara"
+   },
+   {
+      "currency":"YER",
+      "emoji":"🇾🇪",
+      "emojiU":"U+1F1FE U+1F1EA",
+      "extension":"967",
+      "iso2":"YE",
+      "label":"Yemen",
+      "value":"Yemen"
+   },
+   {
+      "currency":"ZMW",
+      "emoji":"🇿🇲",
+      "emojiU":"U+1F1FF U+1F1F2",
+      "extension":"260",
+      "iso2":"ZM",
+      "label":"Zambia",
+      "value":"Zambia"
+   },
+   {
+      "emoji":"🇿🇼",
+      "emojiU":"U+1F1FF U+1F1FC",
+      "extension":"263",
+      "iso2":"ZW",
+      "label":"Zimbabwe",
+      "value":"Zimbabwe"
+   }
+]

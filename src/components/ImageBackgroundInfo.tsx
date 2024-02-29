@@ -17,7 +17,6 @@ import {
 } from '../theme/theme';
 import {
   faCaretLeft,
-  faThumbsUp,
   faCoffee,
   faCodeFork,
   faLocation,
@@ -117,8 +116,8 @@ const ImageBackgroundInfo: React.FC<ImageBackgroundInfoProps> = ({
               <View style={styles.ItemPropertiesContainer}>
                 <View style={styles.ProperFirst}>
                   <FontAwesomeIcon
-                    icon={type == 'Bean' ? faCoffee : faCodeFork}
-                    size={type == 'Bean' ? FONTSIZE.size_18 : FONTSIZE.size_24}
+                    icon={type === 'Bean' ? faCoffee : faCodeFork}
+                    size={type === 'Bean' ? FONTSIZE.size_18 : FONTSIZE.size_24}
                     color={COLORS.primaryOrangeHex}
                   />
 
@@ -127,7 +126,7 @@ const ImageBackgroundInfo: React.FC<ImageBackgroundInfoProps> = ({
                       styles.PropertyTextFirst,
                       {
                         marginTop:
-                          type == 'Bean'
+                          type === 'Bean'
                             ? SPACING.space_4 + SPACING.space_2
                             : 0,
                       },
@@ -137,7 +136,7 @@ const ImageBackgroundInfo: React.FC<ImageBackgroundInfoProps> = ({
                 </View>
                 <View style={styles.ProperFirst}>
                   <FontAwesomeIcon
-                    icon={type == 'Bean' ? faLocation : faDroplet}
+                    icon={type === 'Bean' ? faLocation : faDroplet}
                     size={FONTSIZE.size_16}
                     color={COLORS.primaryOrangeHex}
                   />

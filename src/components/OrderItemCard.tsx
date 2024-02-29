@@ -55,7 +55,7 @@ const OrderItemCard: React.FC<OrderItemCardProps> = ({
                   styles.SizeText,
                   {
                     fontSize:
-                      type == 'Bean' ? FONTSIZE.size_12 : FONTSIZE.size_16,
+                      type === 'Bean' ? FONTSIZE.size_12 : FONTSIZE.size_16,
                   },
                 ]}>
                 {data.size}

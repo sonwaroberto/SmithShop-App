@@ -110,7 +110,7 @@ const PaymentScreen = ({navigation, route}: any) => {
                 styles.CreditCardContainer,
                 {
                   borderColor:
-                    paymentMode == 'Credit Card'
+                    paymentMode === 'Credit Card'
                       ? COLORS.primaryOrangeHex
                       : COLORS.primaryGreyHex,
                 },

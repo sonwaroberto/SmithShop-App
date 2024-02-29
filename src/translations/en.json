@@ -1,0 +1,11 @@
+{
+  "key": "en",
+  "navbar": {
+    "home": "Home",
+    "features": "Features",
+    "aboutUs": "About Us",
+    "getInTouch": "Get in touch!",
+    "requestDemo": "Request demo",
+    "go": "Go back"
+  }
+}

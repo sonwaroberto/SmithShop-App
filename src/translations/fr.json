@@ -1,0 +1,11 @@
+{
+  "key": "fr",
+  "navbar": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "aboutUs": "À propos de nous",
+    "getInTouch": "Contactez-nous",
+    "requestDemo": "Demander une démo",
+    "go": "Retourner"
+  }
+}

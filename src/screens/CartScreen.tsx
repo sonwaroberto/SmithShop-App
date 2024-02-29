@@ -3,19 +3,17 @@ import {
   ScrollView,
   StatusBar,
   StyleSheet,
-  Text,
   View,
   TouchableOpacity,
 } from 'react-native';
 import {useStore} from '../store/store';
 import {useBottomTabBarHeight} from '@react-navigation/bottom-tabs';
 import {COLORS, SPACING} from '../theme/theme';
-import HeaderBar from '../components/HeaderBar';
 import EmptyListAnimation from '../components/EmptyListAnimation';
 import PaymentFooter from '../components/PaymentFooter';
 import CartItem from '../components/CartItem';
 
-const CartScreen = ({navigation, route}: any) => {
+const CartScreen = ({navigation}: any) => {
   const CartList = useStore((state: any) => state.CartList);
   const CartPrice = useStore((state: any) => state.CartPrice);
   const incrementCartItemQuantity = useStore(
@@ -50,9 +48,7 @@ const CartScreen = ({navigation, route}: any) => {
         <View
           style={[styles.ScrollViewInnerView, {marginBottom: tabBarHeight}]}>
           <View style={styles.ItemContainer}>
-            <HeaderBar title="Cart" />
-
-            {CartList.length == 0 ? (
+            {CartList.length === 0 ? (
               <EmptyListAnimation title={'Cart is Empty'} />
             ) : (
               <View style={styles.ListItemContainer}>
@@ -62,24 +58,25 @@ const CartScreen = ({navigation, route}: any) => {
                       navigation.push('Details', {
                         index: data.index,
                         id: data.id,
-                        type: data.type,
+                        type: data.category,
                       });
                     }}
                     key={data.id}>
                     <CartItem
                       id={data.id}
-                      name={data.name}
-                      imagelink_square={data.imagelink_square}
-                      special_ingredient={data.special_ingredient}
-                      roasted={data.roasted}
-                      prices={data.prices}
-                      type={data.type}
+                      title={data.title}
+                      thumbnail={data.thumbnail}
+                      description={data.description}
+                      // roasted={data.roasted}
+                      price={data.price}
+                      category={data.category}
                       incrementCartItemQuantityHandler={
                         incrementCartItemQuantityHandler
                       }
                       decrementCartItemQuantityHandler={
                         decrementCartItemQuantityHandler
                       }
+                      stock={data.stock}
                     />
                   </TouchableOpacity>
                 ))}
@@ -87,7 +84,7 @@ const CartScreen = ({navigation, route}: any) => {
             )}
           </View>
 
-          {CartList.length != 0 ? (
+          {CartList.length !== 0 ? (
             <PaymentFooter
               buttonPressHandler={buttonPressHandler}
               buttonTitle="Pay"

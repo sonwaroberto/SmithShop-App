@@ -1,12 +1,5 @@
 import {Appearance} from 'react-native';
-
 const colorScheme = Appearance.getColorScheme();
-if (colorScheme === 'dark') {
-  // Use dark color scheme
-  console.log('Dark color scheme');
-} else {
-  console.log('Dark color scheme', colorScheme);
-}
 interface Spacing {
   space_2: number;
   space_4: number;

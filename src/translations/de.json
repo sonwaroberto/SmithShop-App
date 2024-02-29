@@ -1,0 +1,10 @@
+{
+  "key": "de",
+  "navbar": {
+    "home": "Home",
+    "features": "Funktionen",
+    "aboutUs": "Über uns",
+    "getInTouch": "Kontakt",
+    "requestDemo": "Demo anfragen"
+  }
+}

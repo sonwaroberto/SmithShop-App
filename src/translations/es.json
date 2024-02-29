@@ -1,0 +1,11 @@
+{
+  "key": "es",
+  "navbar": {
+    "home": "Inicio",
+    "features": "Características",
+    "aboutUs": "Sobre nosotros",
+    "getInTouch": "¡Ponte en contacto!",
+    "requestDemo": "Solicitar demostración",
+    "go": "Volver"
+  }
+}
